@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"/Users/sameetmandewalker/.vscode/extensions/genouk-dev.genouk-1.0.2/dist/stopHook.js\""
+          }
+        ]
+      }
+    ]
+  }
+}
