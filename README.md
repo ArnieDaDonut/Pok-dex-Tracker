@@ -6,11 +6,21 @@ This is a ROM hack of Pokemon FireRed (built using the 'pokefirered' decompilati
 
 Pokedex Tracker Screen: Custom UI accessible in-game to see which Pokemon you have caught and still need to catch.
 
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/6248758f-ba56-4535-b950-3aca451f8abc" />
+
 Search/Filter Feature: Interactive search bar and status filters (All, Caught, Uncaught) to quickly sort and find Pokemon within the list.
+
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/6171f456-8d45-4fde-8186-3ce6cde21c55" />
+
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/c965a400-0f61-46ab-9855-3c4a360dfe89" />
 
 Location Mapping: By selecting a Pokemon and pressing A on their LOCATION button, the Town Map is opened. On the Town Map, sprite icons appear everywhere the Pokemon can be found in order to make it easier for the user to catch all Pokemon.
 
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/ac0e1f22-e704-4bab-9d54-3656e89cf09b" />
+
 Map Warnings: Warnings appear if users try to identify locations of Pokemon before having the Town/Sevii Island Maps. 
+
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/e8a1d087-1daf-4c81-ac74-850b19ab499d" />
 
 
 ## AI Disclosure
