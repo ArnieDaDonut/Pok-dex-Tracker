@@ -1,5 +1,7 @@
 # Pokemon FireRed: Pokedex Tracker
 
+https://github.com/user-attachments/assets/c437b0e9-cccc-47ee-ad27-52905a44a9a9
+
 This is a ROM hack of Pokemon FireRed (built using the 'pokefirered' decompilation project) that includes an in-game Pokedex Tracker Screen to help players track uncaught, caught, and search-filtered Pokemon, as well as their location with dynamic mapping on their Town/Sevii Island Maps.
 
 ## Features
